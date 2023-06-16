@@ -17,10 +17,10 @@ A barra de pesquisa permite que o usuário digite um termo para filtrar os dados
 Cada item na lista possui um botão de excluir. Ao clicar nesse botão, o item correspondente é removido da lista. Essa funcionalidade utiliza uma função de filtro (filter) para criar uma nova lista sem o item selecionado.
 
 #### Favoritar Item
-Cada item na lista possui um botão de favoritar. Ao clicar nesse botão, uma característica do objeto correspondente é alterada para indicar que foi favoritado. Os itens favoritados são destacados visualmente, por exemplo, através de uma cor diferente. Isso é realizado através da renderização condicional, onde é aplicada uma classe CSS ou estilo diferente aos itens favoritados.
+Cada item na lista possui um botão de favoritar. Ao clicar nesse botão, uma característica do objeto correspondente é alterada para indicar que foi favoritado. Os itens favoritados são destacados visualmente, por exemplo, através de um ícone diferente. Isso é realizado através da renderização condicional.
 
 
-## Colaboradores 
+## Colaboradore
 
 ### Alunos 🚀
 - [Bianca](https://www.linkedin.com/in/bianca-gall-de-freitas-349b0175/) 
