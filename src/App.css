@@ -1,0 +1,44 @@
+*{
+  background: #2f64d6;
+}
+.fundo, .caixa {
+  background: #2f64d6;
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  overflow: auto;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  margin: 0.6rem;
+  width: 230px;
+  height: 350px;
+  border-radius: 0.6rem;
+  background-color: #f8db27;
+}
+
+.pesquisa {
+  width: 40%;
+  margin: 2rem;
+  padding: 1rem;
+  background: #f8db27;
+  border-radius: 0.6rem;
+  font-size: 1.5rem;
+color: #2f64d6;
+}
+
+.excluir,
+.curtir {
+  background: #2f64d6;
+  color:#f8db27;
+}
+.personagem, .familia{
+  color: #2f64d6;
+  background:#f8db27;
+}
